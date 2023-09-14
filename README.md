@@ -1,1 +1,2 @@
-## Vazio por enquanto
+## Projeto BLDB
+projeto ainda não finalizado, em produção
